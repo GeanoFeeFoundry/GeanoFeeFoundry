@@ -50,4 +50,4 @@ I am currently investigating ways to challenge the inherent limitations of the F
 ## 💬 Connect with me
 Found a bug or have a cool idea? Open an **Issue** in the respective repository or find me on the official FoundryVTT Discord!
 
-[![GitHub followers](https://img.shields.io/github/followers/GeanoFee?style=social)](https://github.com/GeanoFee)
+[![GitHub followers](https://img.shields.io/github/followers/GeanoFeeFoundry?style=social)](https://github.com/GeanoFeeFoundry)
