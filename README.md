@@ -11,7 +11,7 @@ I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of
 * **Level Design:** A full suite of tools to draw platforms, walls, hazards, and portals directly onto the canvas.
 * **Multiplayer:** Fully networked physics — watch players jump, wall-slide, and fall in real-time.
 * **Integration:** Deep bridge to *Monk's Active Tile Triggers* for retro-style heart systems and checkpoints.
-* **[Geano's Jump'n'Run Editor](https://github.com/GeanoFee/geanos-jump-n-run-editor)**
+* **[Geano's Jump'n'Run Editor](https://github.com/GeanoFeeFoundry/geanos-jump-n-run-editor)**
 
 ---
 
@@ -19,22 +19,22 @@ I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of
 *I queue all my modules for official listing in the FoundryVTT Package Directory.*
 
 ### ⚙️ Core Engine & Performance
-* **[Geano's Phantom Performance](https://github.com/GeanoFee/geanos-phantom-performance)**: Advanced memory manager using "Phantom" data skeletons.
-* **[Geano's Scene Optimizer](https://github.com/GeanoFee/geanos-scene-optimizer)**: High-speed asset optimization (WebP/OGG) using browser-native WebCodecs.
-* **[Geano's Scene Rotation](https://github.com/GeanoFee/geanos-scene-rotation)**: Complex coordinate transformation for rotating entire scenes (walls, lights, tokens).
-* **[Geano's Secret Rolls](https://github.com/GeanoFee/geanos-secret-rolls)**: Add another roll-mode that makes rolls being privately whispered to the GM.
+* **[Geano's Phantom Performance](https://github.com/GeanoFeeFoundry/geanos-phantom-performance)**: Advanced memory manager using "Phantom" data skeletons.
+* **[Geano's Scene Optimizer](https://github.com/GeanoFeeFoundry/geanos-scene-optimizer)**: High-speed asset optimization (WebP/OGG) using browser-native WebCodecs.
+* **[Geano's Scene Rotation](https://github.com/GeanoFeeFoundry/geanos-scene-rotation)**: Complex coordinate transformation for rotating entire scenes (walls, lights, tokens).
+* **[Geano's Secret Rolls](https://github.com/GeanoFeeFoundry/geanos-secret-rolls)**: Add another roll-mode that makes rolls being privately whispered to the GM.
 
 ### 🎵 Immersive Audio & Visuals
-* **[Geano's SoundScape Realism](https://github.com/GeanoFee/geanos-soundscape-realism)**: Real-time acoustic occlusion and reverb calculated via multithreaded raycasting.
-* **[Geano's CineBars](https://github.com/GeanoFee/geanos-cinebars)**: Automated cinematic letterbox bars for combat immersion.
-* **[Geano's Carriage Shake](https://github.com/GeanoFee/geanos-carriage-shake)**: Synchronized environmental screen-shake effects.
+* **[Geano's SoundScape Realism](https://github.com/GeanoFeeFoundry/geanos-soundscape-realism)**: Real-time acoustic occlusion and reverb calculated via multithreaded raycasting.
+* **[Geano's CineBars](https://github.com/GeanoFeeFoundry/geanos-cinebars)**: Automated cinematic letterbox bars for combat immersion.
+* **[Geano's Carriage Shake](https://github.com/GeanoFeeFoundry/geanos-carriage-shake)**: Synchronized environmental screen-shake effects.
 
 ### 🎭 Automation & System Bridges
-* **[Geano's Notification Killer](https://github.com/GeanoFee/geanos-notification-killer)**: UX cleanup by suppressing technical UI warnings.
-* **[Geano's Token Grayscale](https://github.com/GeanoFee/geanos-token-grayscale)**: Automated HP-based visual status tracking.
-* **[Geano's DnD Coin Manager](https://github.com/GeanoFee/geanos-coin-manager)**: Streamlined currency math for dnd5e.
-* **[Geano's GDSA Exchange Office](https://github.com/GeanoFee/geanos-gdsa-exchange-office)**: Streamlined currency math for Goody's DSA 4.1 Core.
-* **[Geano's GDSA Polyglot Bridge](https://github.com/GeanoFee/geanos-gdsa-polyglot-bridge)**: Integration tool for DSA 4.1, bridging Polyglot to the GDSA system.
+* **[Geano's Notification Killer](https://github.com/GeanoFeeFoundry/geanos-notification-killer)**: UX cleanup by suppressing technical UI warnings.
+* **[Geano's Token Grayscale](https://github.com/GeanoFeeFoundry/geanos-token-grayscale)**: Automated HP-based visual status tracking.
+* **[Geano's DnD Coin Manager](https://github.com/GeanoFeeFoundry/geanos-coin-manager)**: Streamlined currency math for dnd5e.
+* **[Geano's GDSA Exchange Office](https://github.com/GeanoFeeFoundry/geanos-gdsa-exchange-office)**: Streamlined currency math for Goody's DSA 4.1 Core.
+* **[Geano's GDSA Polyglot Bridge](https://github.com/GeanoFeeFoundry/geanos-gdsa-polyglot-bridge)**: Integration tool for DSA 4.1, bridging Polyglot to the GDSA system.
 
 ---
 
