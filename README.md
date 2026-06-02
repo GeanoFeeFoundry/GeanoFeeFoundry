@@ -1,4 +1,4 @@
-![image alt](https://github.com/GeanoFeeFoundry/GeanoFeeFoundry/blob/a252b7a66b547076d1fa29fd49643bb8181a69ec/GithubBanner.jpeg)
+![image alt](https://github.com/GeanoFeeFoundry/GeanoFeeFoundry/blob/ef9a11edf53c6fd50a1acc87345cb9158e4a4c2b/BlueBanner.png)
 
 ---
 
