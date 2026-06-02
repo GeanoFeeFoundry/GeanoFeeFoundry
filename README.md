@@ -1,3 +1,6 @@
+![image alt](https://github.com/GeanoFeeFoundry/GeanoFeeFoundry/blob/a252b7a66b547076d1fa29fd49643bb8181a69ec/GithubBanner.jpeg)
+---
+
 # Hi there, I'm Geano 👋
 
 I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of virtual tabletop immersion. From high-performance engine optimizations to tiny immersion-treats, I build tools that transform how stories are told.
