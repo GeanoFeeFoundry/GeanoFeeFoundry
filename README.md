@@ -38,11 +38,6 @@ I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of
 
 ---
 
-## 🧪 Research & "Outside the Box" Development
-I am currently investigating ways to challenge the inherent limitations of the FoundryVTT engine. My goal is to re-evaluate core engine constraints to enable experiences that were previously considered impossible in the FoundryVTT environment.
-
----
-
 ## 📈 Status & Roadmap
 * **Official Status:** Core modules are listed and available in the FoundryVTT setup menu.
 * **Current Focus:** Building an automization module for a community system and updating all my previous modules for Foundry V14.
