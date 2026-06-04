@@ -34,6 +34,7 @@ I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of
 * **[Geano's Carriage Shake](https://github.com/GeanoFeeFoundry/geanos-carriage-shake)**: Synchronized environmental screen-shake effects.
 
 ### 🎭 Automation & System Bridges
+* **[Geano's GDSA QoL](https://github.com/GeanoFeeFoundry/geanos-gdsa-qol)**: Automize EVERYTHING (or at least a lot) while playing the GDSA game-system.
 * **[Geano's Animated Tokenizer](https://github.com/GeanoFeeFoundry/geanos-animated-tokenizer)**: Forks vtta-tokenizer for added WebM/GIF compositing.
 * **[Geano's Notification Killer](https://github.com/GeanoFeeFoundry/geanos-notification-killer)**: UX cleanup by suppressing technical UI warnings.
 * **[Geano's Token Grayscale](https://github.com/GeanoFeeFoundry/geanos-token-grayscale)**: Automated HP-based visual status tracking.
