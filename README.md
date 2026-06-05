@@ -46,7 +46,7 @@ I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of
 
 ## 📈 Status & Roadmap
 * **Official Status:** Core modules are listed and available in the FoundryVTT setup menu.
-* **Current Focus:** Building an automization module for a community system and updating all my previous modules for Foundry V14.
+* **Current Focus:** Building an automation module for a community system and updating all my previous modules for Foundry V14.
 
 ## 💬 Connect with me
 Found a bug or have a cool idea? Open an **Issue** in the respective repository or find me on the official FoundryVTT Discord!
