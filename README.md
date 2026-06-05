@@ -13,7 +13,7 @@ I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of
 
 * **The Innovation:** Breaks the top-down paradigm by introducing a custom real-time gravity and collision engine.
 * **Level Design:** A full suite of tools to draw platforms, walls, hazards, and portals directly onto the canvas.
-* **Multiplayer:** Fully networked physics — watch players jump, wall-slide, and fall in real-time.
+* **Multiplayer:** Fully networked physics - watch players jump, wall-slide, and fall in real-time.
 * **Integration:** Deep bridge to *Monk's Active Tile Triggers* for retro-style heart systems and checkpoints.
 * **[Geano's Jump'n'Run Editor](https://github.com/GeanoFeeFoundry/geanos-jump-n-run-editor)**
 
