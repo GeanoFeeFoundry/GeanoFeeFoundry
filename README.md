@@ -35,7 +35,6 @@ I'm a **FoundryVTT Community Developer** dedicated to breaking the boundaries of
 
 ### 🎭 Automation & System Bridges
 * **[Geano's GDSA QoL](https://github.com/GeanoFeeFoundry/geanos-gdsa-qol)**: Automate EVERYTHING (or at least a lot) while playing the GDSA game-system.
-* **[Geano's Animated Tokenizer](https://github.com/GeanoFeeFoundry/geanos-animated-tokenizer)**: Forks vtta-tokenizer for added WebM/GIF compositing.
 * **[Geano's Notification Killer](https://github.com/GeanoFeeFoundry/geanos-notification-killer)**: UX cleanup by suppressing technical UI warnings.
 * **[Geano's Token Grayscale](https://github.com/GeanoFeeFoundry/geanos-token-grayscale)**: Automated HP-based visual status tracking.
 * **[Geano's DnD Coin Manager](https://github.com/GeanoFeeFoundry/geanos-coin-manager)**: Streamlined currency math for dnd5e.
